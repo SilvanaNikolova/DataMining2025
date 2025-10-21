@@ -1,11 +1,3 @@
-// solution.cpp
-
-// Вариант B — Code Runner (едно натискане)
-
-// Натисни Ctrl + Alt + N
-
-// Програмата се компилира и стартира автоматично в терминала на VS Code.
-
 #include <iostream>
 #include <vector>
 #include <string>
@@ -133,3 +125,4 @@ int main() {
 
     return 0;
 }
+
